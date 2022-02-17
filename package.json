@@ -36,7 +36,7 @@
     "typescript": "^4.2.4"
   },
   "main": "index.js",
-  "repository": "https://github.com/mateusdeitos/rocketseat-ignite-dashgo.git",
+  "repository": "https://github.com/dioggosoares/dashgo-project.git",
   "author": "Diogo <dioggo.soares@live.com>",
   "license": "MIT"
 }
