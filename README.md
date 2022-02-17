@@ -30,7 +30,7 @@
   <img width="1000" src=".github/new-user.png"/>
 </p>
 
-## Responsive 📱
+<!-- ## Responsive 📱
 <p align="center">
 <h4>Home</h4>
   <img width="500" src=".github/dashboard-mobile.png"/>
@@ -38,8 +38,8 @@
   <img width="500" src=".github/users-mobile.png"/>
 <h4>Create new User form</h4>
   <img width="500" src=".github/new-user-mobile.png"/>
-</p>
+</p> -->
 
 ## Contact ✉
-  - <a target="_blank" href="https://www.linkedin.com/in/mateus-campos-deitos-42688864//">LinkedIn</a>
-  - <a target="_blank" href="mailto:matdeitos@gmail.com">E-mail</a>
+  - <a target="_blank" href="https://www.linkedin.com/in/diogo-soares-993022180/">LinkedIn</a>
+  - <a target="_blank" href="mailto:dioggosoares35@gmail.com">E-mail</a>
