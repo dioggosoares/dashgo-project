@@ -6,7 +6,7 @@
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=282A36">
 
   <a href="https://github.com/dioggosoares">
-    <img alt="Made By mateusdeitos" title="Made By mateus deitos" src="https://img.shields.io/badge/Made%20by-mateusdeitos-blue" alt="Made by mateusdeitos" />
+    <img alt="Made By dioggosoares" title="Made By dioggosoares" src="https://img.shields.io/badge/Made%20by-dioggosoares-blue" alt="Made by dioggosoares" />
   <a>
 </p>
 
